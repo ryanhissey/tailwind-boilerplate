@@ -1,3 +1,6 @@
+<?php 
+/** Boiler plate html */
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +12,5 @@
 </head>
 <body>
     <h1 class="pt-36 font-bold text-4xl text-purple-700 text-center">Hello There</h1>
-    
 </body>
 </html>
